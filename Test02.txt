@@ -1,10 +1,7 @@
 line 70
 
 line 100
-line master
-line dev
-
-super master
 line dev
 
 super dev
+line master
