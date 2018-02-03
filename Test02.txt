@@ -1,4 +1,3 @@
 line 70
 
 line 100
-line master
